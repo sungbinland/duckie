@@ -9,6 +9,7 @@
   <br/>
   <a href="https://kotlin.link"><img src="https://kotlin.link/awesome-kotlin.svg" alt="awesome-kotlin"/></a>
   <a href="https://ktlint.github.io/"><img src="https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg" alt="ktlint"/></a>
+  <a href="https://github.com/sungbinland/duckie"><img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/sungbinland/duckie"></a>
 </p>
 
 --- 
