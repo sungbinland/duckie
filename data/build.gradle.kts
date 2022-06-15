@@ -15,7 +15,7 @@ ksp {
 }
 
 android {
-    namespace = "land.sungbin.androidprojecttemplate.composetemplate.domain"
+    namespace = "land.sungbin.androidprojecttemplate.data"
 }
 
 dependencies {

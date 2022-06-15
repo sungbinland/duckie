@@ -26,7 +26,7 @@ tasks.withType<Test> {
 }*/
 
 android {
-    namespace ="land.sungbin.androidprojecttemplate.composetemplate.domain"
+    namespace = "land.sungbin.androidprojecttemplate.domain"
 }
 
 dependencies {
