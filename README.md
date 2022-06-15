@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/duckie.png" width="40%" />
+  <img src="./assets/duckie.png" width="50%" />
 </p>
 <br/>
 <p align="center">
