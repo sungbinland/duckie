@@ -12,7 +12,6 @@ if (hasLibraryPlugin || hasApplicationPlugin || hasDFMPlugin) {
         }
     }
 
-    // TODO: change namespace to your package
     android {
         compileSdk = ApplicationConstants.compileSdk
 
