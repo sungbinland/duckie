@@ -1,6 +1,6 @@
 object Versions {
     const val Orbit = "4.3.2"
-    const val Ksp = "1.6.10-1.0.4"
+    const val Ksp = "1.6.21-1.0.6"
     const val FirebaseBom = "29.3.0"
 
     object BuildUtil {
