@@ -1,6 +1,7 @@
 <p align="center">
-  <img src=".duckie.png" width="15%" />
+  <img src="./assets/duckie.png" width="40%" />
 </p>
+<br/>
 <p align="center">
   <a href="https://github.com/sungbinland/duckie/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-blue"/></a>
   <a href="https://developer.android.com/about/versions/lollipop"><img alt="API 21+" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg"/></a>
