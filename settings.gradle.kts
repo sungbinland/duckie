@@ -1,4 +1,4 @@
-rootProject.name = "AndroidProjectTemplate"
+rootProject.name = "duckie"
 include(
     ":data",
     ":domain",
