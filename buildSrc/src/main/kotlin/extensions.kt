@@ -67,7 +67,7 @@ fun DependencyHandler.projectImplementation(path: String) {
     "OPT_IN_IS_NOT_ENABLED", // OptIn usage
     "UNCHECKED_CAST" // Collection<*> as Collection<Any>
 )
-@OptIn(ExperimentalStdlibApi::class)
+@OptIn(ExperimentalStdlibApi::class) // buildList
 // only List or String or platform enters.
 fun List<*>.dependenciesFlatten() = buildList {
     this@dependenciesFlatten.forEach { dependency ->
